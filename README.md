@@ -1,1 +1,1 @@
-# -learnJS_codecademy
+# learnJS_codecademy
